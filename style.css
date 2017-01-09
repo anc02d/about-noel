@@ -1,9 +1,13 @@
 h1 {font-family:"Century Gothic", sans-serif;
 }
 body {
-	background-image: url("wood_bkgd.jpg");
+	background-image: url("images/woodBkgd.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-attachment: fixed;
 }
-
+img {
+	display: block;
+	margin: auto;
+	width: 40%;
+}
