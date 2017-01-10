@@ -2,17 +2,17 @@ h1 {font-family:"Century Gothic", sans-serif;
 	font-size: 400%;
 }
 body {
-	/*background-image: url("images/woodBkgd.jpg");
+	background-image: url("images/woodBkgd.jpg");
 	background-repeat: no-repeat;
 	background-position: center top;
-	background-attachment: fixed;*/
-	background-color: cornsilk;
+	background-attachment: fixed;
+
 }
 img {
 	display: block;
 	margin: auto;
 	width: 40%;
-	border: 5px solid
+	border: 3px solid
 }
 p {font-family: "Times New Roman", Serif;
 	/*background-color: black;
