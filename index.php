@@ -36,7 +36,7 @@
 		</div>
 		<footer>s
 			<div class="row">
-				<div class="col-md-4"><p>Contact Me!</p>
+				<div class="col-md-4"><p>Contact Me if you want to race!</p>
 				<p>noelcothren@gmail.com</p>
 				<p>instagram.com/noeynoeinoee</p></div>
 			</div>
