@@ -29,7 +29,12 @@
 			</p>
 		</div>
 		</div>
-		<footer>
+		<p> On the weekends, I enjoy racing at Sandia Speedway in my pro-charged 350 bored.10 small block 1956 white on sea-foam green Chevy. The sound of the High revving
+			 motor, peaking at its rpm is a sound that most can only hear in a dream. And the best feeling in the world is leaving them little boys in the harsh New Mexico dust.
+			</p>
+		<div class="col-md-7"> <img src="chevy.jpg">
+		</div>
+		<footer>s
 			<div class="row">
 				<div class="col-md-4"><p>Contact Me!</p>
 				<p>noelcothren@gmail.com</p>
