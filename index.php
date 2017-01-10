@@ -13,14 +13,15 @@
 		<div class="row">
 			<div class="col-md-7"><p>This site is about me, Noel. I am currently learning Web Development at the CNM Stemulus Center's Deep Dive Coding Bootcamp.
 					Before coming to Deep Dive, I was an Office and HR Manager at Mario's Pizza here in Albuquerque. Before <em>that</em>, I taught English to engineering students
-				at the National University in Bogota, Colombia. I've also formally studied Fine Arts and Language Education, and have a strong base and continuing interest in psychology.
+				at the National University in Bogota, Colombia, and for one year I lived in a semi-truck with my partner,
+					Robert while he worked as an over-the-road truck driver. I've also formally studied Fine Arts and Language Education, and have a strong base and continuing interest in psychology.
 			</p></div>
 			<div class="col-md-5"> <img src="images/unal.jpg" class="img-rounded" alt="Universidad Nacional" width="auto" height="auto">
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-5"> <img src="images/truckcook.jpg" class="img-rounded" alt="Cooking on the Truck" width="auto" height="auto">
-			</div>
+				</div>
 		<div class="col-md-7">
 			<p>In my free time, I read both non-fiction and fiction extensively. I also love to make things and frequently can be found doing arts and craft projects,
 			most recently focused in printmaking, pop-up cards, and woodworking. I live in Albuquerque, NM with my partner, Robert, and more than one billion tiny pets
@@ -28,5 +29,12 @@
 			</p>
 		</div>
 		</div>
+		<footer>
+			<div class="row">
+				<div class="col-md-4"><p>Contact Me!</p>
+				<p>noelcothren@gmail.com</p>
+				<p>instagram.com/noeynoeinoee</p></div>
+			</div>
+		</footer>
 	</body>
 </html>
