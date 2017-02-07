@@ -1,20 +1,22 @@
-h1 {font-family:"Century Gothic", sans-serif;
+h1 {
+	font-family:"Century Gothic", sans-serif;
 	font-size: 400%;
 }
+
 body {
 	background-image: url("/images/woodBkgd.jpg");
 	background-repeat: no-repeat;
-	background-position: center top;
-	background-attachment: fixed;
+	width: 1100px;
+	margin: 0 auto;
+}
 
-}
 img {
-	display: block;
 	margin: 10px;
-	border: 3px solid
+	border: 3px solid darkblue;
 }
+
 p {
 	font-family: "Times New Roman", Serif;
 	text-align: justify;
-	margin: 10px;
+	margin: 10px auto;
 }
